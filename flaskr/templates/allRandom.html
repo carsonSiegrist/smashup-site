@@ -1,0 +1,30 @@
+{% extends "navbar.html" %}
+
+{% block content %}
+
+<h1>All Random</h1>
+<p>All Random assigns each player a completely random deck!</p><br>
+
+<form method="POST" action="">
+    <label for="playerCount">Enter Player Count: </label>
+    <input type="number" id="playerCount" name="playerCount" min="2" max="47" step="1" required><br><br>
+
+    <button type="sumbit" value="filter">Draft!</button><br><br>
+
+</form>
+
+{% if decks %}
+    {% for deck in decks %}
+
+        Player {{loop.index}}'s decks: 
+        <ul>
+            <li>{{deck[0]}}</li>
+            <li>{{deck[1]}}</li>
+        </ul>
+        <br>
+
+    {% endfor %}
+{% endif %}
+
+
+{% endblock content %}

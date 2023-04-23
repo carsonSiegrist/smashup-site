@@ -1,0 +1,27 @@
+{
+    "Core Set" : ["Aliens", "Dinosaurs", "Ninjas", "Pirates", "Robots", "Tricksters", "Wizards", "Zombies"],
+    "Awesome Level 9000" : ["Bear Calvary", "Ghosts", "Killer Plants", "Steampunks"],
+    "The Obligatory Cthulhu Set" : ["Elder Things", "Innsmouth", "Minions of Cthulu", "Miskatonic University"],
+    "Science Fiction Double Feature" : ["Cyborg Apes", "Shapeshifters", "Super Spies", "Time Travelers"],
+    "Monster Smash" : ["Giant Ants", "Mad Scientists", "Vampires", "Werewolves"],
+    "Pretty Pretty Smash Up" : ["Fairies", "Kitty Cats", "Mythic Horses", "Princesses"],
+    "Smash Up: Munchkin" : ["Clerics", "Dwarves", "Elves", "Halflings", "Mages", "Orcs", "Theives", "Warriors"],
+    "It’s Your Fault!" : ["Dragons", "Mythic Greeks", "Sharks", "Superheroes", "Tornados"],
+    "Cease and Desist" : ["Astroknights", "Changerbots", "Ignobles", "Star Roamers"],
+    "What Were We Thinking?" : ["Explorers", "Grannies", "Rock Stars", "Teddy Bears"],
+    "Big in Japan" : ["Itty Critters", "Kaiju", "Magical Girls", "Mega Troopers"],
+    "Smash Up Sheep Promo" : ["Sheep"],
+    "That ’70s Expansion" : ["Disco Dancers", "Kung Fu Fighters", "Truckers", "Vigilantes"],
+    "The Bigger Geekier Box" : ["Geeks", "Smash Up All Stars"],
+    "Oops, You Did It Again" : ["Ancient Egyptians", "Cowboys", "Samurai", "Vikings"],
+    "World Tour: International Incident" : ["Luchadors", "Mounties", "Musketeers", "Sumo Wrestlers"],
+    "Smash Up Penguins" : ["Penguins"],
+    "World Tour: Culture Shock" : ["Anasi Tales", "Ancient Incas", "Grimms' Fairy Tales", "Polynesian Voyagers", "Russian Fairy Tales"],
+    "Smash Up: Marvel" : ["Avengers", "Hydra", "Kree", "Masters of Evil", "S.H.I.E.L.D", "Sinister Six", "Spider-Verse", "Ultimates"],
+    "Smash Up Goblins" : ["Goblins"],
+    "Smash Up Knights of the Round Table" : ["Knights of the Round Table"],
+    "Smash Up: Disney Edition" : ["Aladdin", "Beauty and the Beast", "Big Hero 6", "Frozen", "Mulan", "The Lion King", "The Nightmare Before Christmas", "Wreck-It Ralph"],
+    "10th Anniversary" : ["Mermaids", "Skeletons", "World Champs"]
+}
+
+
