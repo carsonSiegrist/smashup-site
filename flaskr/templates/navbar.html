@@ -10,7 +10,13 @@
     </head>
 
     <body>
-        <!-- TODO: Create Navbar, with item for each page -->
+        <div class="header-menu">
+            <ul>
+                {% for page, name in [("main", "Home"), ("allRandom", "All Random")] %}
+                    <li id="{{page}}"><a href={{url_for(page)}}>{{name}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
     </body>
 
 
